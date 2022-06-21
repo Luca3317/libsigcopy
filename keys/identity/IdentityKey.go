@@ -4,7 +4,7 @@ package identity
 
 import (
 	"encoding/hex"
-	"github.com/RadicalApp/libsignal-protocol-go/ecc"
+	"github.com/Luca3317/libsigcopy/ecc"
 )
 
 // NewKey generates a new IdentityKey from an ECPublicKey
