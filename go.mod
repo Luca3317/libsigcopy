@@ -1,4 +1,4 @@
-module github.com/RadicalApp/libsignal-protocol-go
+module github.com/Luca3317/libsigcopy
 
 go 1.17
 
